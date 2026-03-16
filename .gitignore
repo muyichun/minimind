@@ -3,3 +3,4 @@ out
 website/
 docs-minimind/
 .minimind
+*.pyc
